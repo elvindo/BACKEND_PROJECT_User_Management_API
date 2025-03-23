@@ -50,8 +50,6 @@ DATABASE_URL=postgresql://user:password@host:port/database
 - `PORT`: Specifies the port where the server will run (default: 5000). You can change it as needed.
 - `DATABASE_URL`: Your PostgreSQL connection string. Replace `user`, `password`, `host`, `port`, and `database` with your actual PostgreSQL credentials.
 
-> **Note:** Ensure that you do not store the `.env` file in a public repository.
-
 ### 4️⃣ Start the Server
 
 ```sh
