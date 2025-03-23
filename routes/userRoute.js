@@ -4,8 +4,8 @@ const router = express.Router();
 
 // Dummy data (bisa diganti dengan database query)
 const users = [
-    { id: 1, name: "Alice", email: "alice@example.com", age: 25 },
-    { id: 2, name: "Bob", email: "bob@example.com", age: 30 }
+    { id: 1, name: "Elvindo", email: "Elvindo@email.com", age: 22 },
+    { id: 2, name: "Gita", email: "Gita@email.com", age: 20 }
 ];
 
 // GET: Ambil semua user
